@@ -1,0 +1,11 @@
+node_modules/
+dist/
+build/
+.env
+.vscode/
+.idea/
+.DS_Store
+thumbs.db
+*.key
+*.pem
+wallet-keypair.json
